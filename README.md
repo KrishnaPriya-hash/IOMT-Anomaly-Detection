@@ -13,7 +13,7 @@ This project is an IoMT (Internet of Medical Things) based anomaly detection sys
 ## Demo Video
 Watch the project demonstration here:
 
-[View Demo Video]([https://drive.google.com/your-link](https://drive.google.com/file/d/1QW0qlNUovNZR9FJn2as9D7J-yRrx0C7m/view?usp=drive_link)))
+[View Demo Video](https://drive.google.com/file/d/1QW0qlNUovNZR9FJn2as9D7J-yRrx0C7m/view?usp=drive_link)
 
 ## Technologies Used
 - Python
